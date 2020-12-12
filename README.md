@@ -13,3 +13,12 @@ http://localhost/Laboratorio
   <br>
   -Contraseña: 1234
   
+  <hr>
+  
+  Base de datos esta en la siguiente Ubicación:
+  
+  /assets/BD/laboratorio.sql
+  
+  archivo de conexión:
+  
+  /class/conexion.php
